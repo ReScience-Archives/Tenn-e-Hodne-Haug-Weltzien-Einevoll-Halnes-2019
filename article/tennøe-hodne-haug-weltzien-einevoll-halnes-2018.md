@@ -30,21 +30,21 @@ Address:
 Contact:
   - simenten@student.matnat.uio.no
 Editor:
-  - Nicolas P. Rougier
+  - Benoît Girard
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Georgios Detorakis
+  - Andrew P. Davison
 Publication:
-  received:  Nov, 8, 2018
-  accepted:  Nov, 1, 2018
-  published: Nov, 1, 2018
-  volume:    "**4**"
+  received:  Nov, 9, 2018
+  accepted:  Mar, 11, 2019
+  published: Mar, 21, 2019
+  volume:    "**5**"
   issue:     "**1**"
-  date:      Nov 2018
-  number: 1
+  date:      Mar 2019
+  number: 2
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Tenn-e-Hodne-Haug-Weltzien-Einevoll-Halnes-2019/tree/tenn%C3%B8e-hodne-haug-weltzien-einevoll-halnes/article"
+  code:      "https://github.com/ReScience-Archives/Tenn-e-Hodne-Haug-Weltzien-Einevoll-Halnes-2019/tree/tenn%C3%B8e-hodne-haug-weltzien-einevoll-halnes/code"
   data:
   notebook:
 Reproduction:
