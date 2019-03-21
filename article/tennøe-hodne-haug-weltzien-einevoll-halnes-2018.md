@@ -214,7 +214,7 @@ in the original publication.
 Tabak                 Value       Unit                     NEURON             Value                 Unit
 --------------------- ----------- -----------------------  ------------------ --------------------- -------------------------------------------------------------
                                                            `A`                $3.14 \cdot 10^{-6}$  cm\textsuperscript{2}
-C                     10          pF                       `c`                1.6                   $\mu \mathrm{F/cm}^2$
+C                     10          pF                       `c`                3.18                   $\mu \mathrm{F/cm}^2$
 $G_{\mathrm{Ca}}$     2           nS                       `g_Ca`             $6.37 \cdot 10^{-4}$  S/cm\textsuperscript{2}
 $G_{\mathrm{K}}$      3           nS                       `g_K`              $9.55 \cdot 10^{-4}$  S/cm\textsuperscript{2}
 $G_{\mathrm{BK}}$     2           nS                       `g_BK`             $0$                   S/cm\textsuperscript{2}
